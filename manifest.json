@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "vite-ts-react-test",
+    "name": "Trevor's vicious creation",
     "version": "1.0",
     "description": "",
     "action": {
@@ -14,8 +14,6 @@
     "host_permissions": [
         "https://*/*",
         "http://*/*"
-    ],
-    "icons": {
-        "256": "/icons/music-logo.png"
-      }
+    ]
+   
   }
