@@ -1,0 +1,9 @@
+C:/Users/trevo/Documents/ELEC376_PROJECT/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/ELEC376_PROJECT.dir
+C:/Users/trevo/Documents/ELEC376_PROJECT/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/trevo/Documents/ELEC376_PROJECT/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/trevo/Documents/ELEC376_PROJECT/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/trevo/Documents/ELEC376_PROJECT/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/trevo/Documents/ELEC376_PROJECT/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/trevo/Documents/ELEC376_PROJECT/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/trevo/Documents/ELEC376_PROJECT/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/ELEC376_PROJECT_autogen_timestamp_deps.dir
+C:/Users/trevo/Documents/ELEC376_PROJECT/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Debug/CMakeFiles/ELEC376_PROJECT_autogen.dir
